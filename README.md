@@ -28,7 +28,7 @@ This app displays a curated list of rental properties with the ability to search
 ## Installation & Running the Project
 
 1. Clone the repository:
-   git clone https://github.com/phelisafani/property-mini-listings.git
+   git clone https://github.com/YOUR-USERNAME/property-mini-listings.git
 
 2. Navigate into the project folder:
    cd property-mini-listings
